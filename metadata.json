@@ -1,0 +1,6 @@
+{
+  "name": "HOÁ HỌC - BẠN QUANH MÌNH",
+  "description": "Nền tảng học tập Hoá học 10, 11, 12: Tóm tắt lý thuyết, bài tập tự luyện giải chi tiết, kiểm tra 15-45 phút tùy biến, phòng thí nghiệm ảo và thống kê tiến độ học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
